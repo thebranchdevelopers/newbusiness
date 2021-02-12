@@ -1,0 +1,2294 @@
+@media (min-width: 1263px) {
+	.mediaViewInfo {
+		--web-view-name: index.html – 1;
+		--web-view-id: indexhtml__1;
+		--web-scale-on-resize: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#indexhtml__1 {
+		position: absolute;
+		display: block;
+		width: 1263px;
+		height: 3661px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: index.html – 1;
+		--web-view-id: indexhtml__1;
+		--web-scale-on-resize: true;
+		--web-application: true;
+		--web-enable-deep-linking: true;
+	}
+	#Rectangle_8_copy {
+		fill: rgba(0,118,163,1);
+	}
+	.Rectangle_8_copy {
+		display: none;
+		position: absolute;
+		overflow: visible;
+		width: 1689px;
+		height: 772px;
+		left: -83px;
+		top: 0px;
+	}
+	#Rectangle_8 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_8 {
+		display: none;
+		position: absolute;
+		overflow: visible;
+		width: 1689px;
+		height: 772px;
+		left: -83px;
+		top: -629px;
+	}
+	#Rectangle_8_copy_gh {
+		fill: rgba(0,118,163,1);
+	}
+	.Rectangle_8_copy_gh {
+		display: none;
+		position: absolute;
+		overflow: visible;
+		width: 1689px;
+		height: 772px;
+		left: -182px;
+		top: -119px;
+	}
+	#Rectangle_8_gi {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_8_gi {
+		display: none;
+		position: absolute;
+		overflow: visible;
+		width: 1689px;
+		height: 772px;
+		left: -182px;
+		top: -748px;
+	}
+	#Group_25 {
+		position: absolute;
+		width: 218px;
+		height: 128px;
+		left: 897.313px;
+		top: 824.891px;
+		display: none;
+		overflow: visible;
+	}
+	#Group_25_gk {
+		position: absolute;
+		width: 218px;
+		height: 128px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Layer_26 {
+		mix-blend-mode: screen;
+		position: absolute;
+		width: 218px;
+		height: 128px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Stroke_Effect {
+		fill: rgba(0,0,0,0);
+		stroke: rgba(255,255,255,1);
+		stroke-width: 1px;
+		stroke-linejoin: round;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Stroke_Effect {
+		overflow: visible;
+		position: absolute;
+		width: 218px;
+		height: 128px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Component_63__1 {
+		position: absolute;
+		width: 1704px;
+		height: 3679px;
+		left: -175px;
+		top: -8px;
+		overflow: visible;
+	}
+	#Background_go {
+		position: absolute;
+		width: 1667px;
+		height: 360px;
+		left: 0px;
+		top: 3319px;
+		overflow: visible;
+	}
+	#Rectangle_3_copy_3_gq {
+		fill: rgba(13,12,12,1);
+	}
+	.Rectangle_3_copy_3_gq {
+		position: absolute;
+		overflow: visible;
+		width: 1667px;
+		height: 360px;
+		left: 0px;
+		top: 0px;
+	}
+	#Rectangle_3_copy_3_gq {
+		fill: rgba(13,12,12,1);
+	}
+	.Rectangle_3_copy_3_gq {
+		position: absolute;
+		overflow: visible;
+		width: 1667px;
+		height: 360px;
+		left: 0px;
+		top: 0px;
+	}
+	#Contact {
+		position: absolute;
+		width: 90px;
+		height: 25px;
+		left: 961px;
+		top: 3458.807px;
+		overflow: visible;
+	}
+	#CONTACT_ {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 91px;
+		white-space: nowrap;
+		line-height: 30.000049591064453px;
+		margin-top: -5.500024795532227px;
+		text-align: left;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 19px;
+		color: rgba(255,255,255,1);
+	}
+	#Rectangle_9_copy {
+		fill: rgba(0,118,163,1);
+	}
+	.Rectangle_9_copy {
+		overflow: visible;
+		position: absolute;
+		width: 212px;
+		height: 1px;
+		left: 319px;
+		top: 3495px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#DOWNLOAD_gu {
+		left: 649px;
+		top: 3456.49px;
+		position: absolute;
+		overflow: visible;
+		width: 104px;
+		white-space: nowrap;
+		line-height: 30.000049591064453px;
+		margin-top: -5.500024795532227px;
+		text-align: left;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 19px;
+		color: rgba(255,255,255,1);
+	}
+	#Download_the_app_for_free_and_ {
+		left: 647px;
+		top: 3490px;
+		position: absolute;
+		overflow: visible;
+		width: 334.637px;
+		height: 80.47480010986328px;
+		line-height: 21.600000381469727px;
+		margin-top: -4.300000190734863px;
+		text-align: left;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 13px;
+		color: rgba(255,255,255,1);
+	}
+	#Android_Users__IOS_Users_gw {
+		left: 649px;
+		top: 3520px;
+		position: absolute;
+		overflow: visible;
+		width: 95px;
+		white-space: nowrap;
+		line-height: 24px;
+		margin-top: -4.5px;
+		text-align: left;
+		font-family: AvenirLTStd-Light;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 15px;
+		color: rgba(109,207,246,1);
+	}
+	#ABOUT_ARMOTALE_gx {
+		left: 325px;
+		top: 3456.49px;
+		position: absolute;
+		overflow: visible;
+		width: 164px;
+		white-space: nowrap;
+		line-height: 30.000049591064453px;
+		margin-top: -5.500024795532227px;
+		text-align: left;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 19px;
+		color: rgba(255,255,255,1);
+	}
+	#ArmotaleArmotaleArmotaleArmota_gy {
+		left: 325px;
+		top: 3490.565px;
+		position: absolute;
+		overflow: visible;
+		width: 309.294px;
+		height: 111px;
+		line-height: 21.600000381469727px;
+		margin-top: -4.300000190734863px;
+		text-align: left;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 13px;
+		color: rgba(255,255,255,1);
+	}
+	#ID08_Call_to_Action_gz {
+		position: absolute;
+		width: 1648px;
+		height: 214px;
+		left: 0px;
+		top: 3178px;
+		overflow: visible;
+	}
+	#Rectangle_3_copy_2_g {
+		fill: rgba(0,118,163,1);
+	}
+	.Rectangle_3_copy_2_g {
+		position: absolute;
+		overflow: visible;
+		width: 1648px;
+		height: 214px;
+		left: 0px;
+		top: 0px;
+	}
+	#SPEAK_WITH_AN_AGENT_TOLL_FREE_g {
+		left: 632.061px;
+		top: 52.779px;
+		position: absolute;
+		overflow: visible;
+		width: 401px;
+		white-space: nowrap;
+		line-height: 42.00003433227539px;
+		margin-top: -8.000017166137695px;
+		text-align: center;
+		font-family: AvenirLTStd-Light;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 26px;
+		color: rgba(255,255,255,1);
+	}
+	#ID123_4567_8900_g {
+		left: 612.961px;
+		top: 102.614px;
+		position: absolute;
+		overflow: visible;
+		width: 421px;
+		white-space: nowrap;
+		line-height: 91.98838806152344px;
+		margin-top: -16.99419403076172px;
+		text-align: center;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 58px;
+		color: rgba(255,255,255,1);
+	}
+	#ID07_Client_Reviews {
+		position: absolute;
+		width: 1650px;
+		height: 357.999px;
+		left: 54px;
+		top: 2825px;
+		overflow: visible;
+	}
+	#Background_g {
+		position: absolute;
+		width: 1650px;
+		height: 357px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rectangle_7 {
+		fill: rgba(4,7,7,1);
+	}
+	.Rectangle_7 {
+		position: absolute;
+		overflow: visible;
+		width: 1650px;
+		height: 357px;
+		left: 0px;
+		top: 0px;
+	}
+	#Chigozie {
+		position: absolute;
+		width: 581px;
+		height: 197.322px;
+		left: 847px;
+		top: 148.677px;
+		overflow: visible;
+	}
+	#Scroll_Group_6 {
+		mix-blend-mode: normal;
+		position: absolute;
+		width: 581px;
+		height: 49.999px;
+		left: 0px;
+		top: 147.323px;
+		overflow: hidden;
+	}
+	#Rectangle_6_copy {
+		fill: rgba(4,7,7,1);
+	}
+	.Rectangle_6_copy {
+		overflow: visible;
+		position: absolute;
+		width: 581px;
+		height: 258.999px;
+		left: 0px;
+		top: -183px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#BUSINESS_MAN_g {
+		left: 157.061px;
+		top: 130.269px;
+		position: absolute;
+		overflow: visible;
+		width: 93px;
+		white-space: nowrap;
+		line-height: 21.600017547607422px;
+		margin-top: -4.300008773803711px;
+		text-align: left;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 13px;
+		color: rgba(255,255,255,1);
+	}
+	#CHIGOZIE_ONYEBUCHI_ha {
+		left: 152.061px;
+		top: 101.269px;
+		position: absolute;
+		overflow: visible;
+		width: 194px;
+		white-space: nowrap;
+		line-height: 29.99997901916504px;
+		margin-top: -5.4999895095825195px;
+		text-align: left;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 19px;
+		color: rgba(255,198,26,1);
+	}
+	#My_Containers_came_in_on_time__hb {
+		left: 56.424px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 472.576px;
+		height: 92.75px;
+		line-height: 21.600000381469727px;
+		margin-top: -4.300000190734863px;
+		text-align: left;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 13px;
+		color: rgba(255,255,255,1);
+	}
+	#Scroll_Group_5 {
+		mix-blend-mode: normal;
+		position: absolute;
+		width: 581px;
+		height: 216.999px;
+		left: 219px;
+		top: 141px;
+		overflow: hidden;
+	}
+	#Lawal {
+		position: absolute;
+		width: 581px;
+		height: 258.999px;
+		left: 0px;
+		top: -13px;
+		overflow: visible;
+	}
+	#Rectangle_6 {
+		fill: rgba(4,7,7,1);
+	}
+	.Rectangle_6 {
+		overflow: visible;
+		position: absolute;
+		width: 581px;
+		height: 258.999px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#BUSINESS_MAN_hf {
+		left: 144.061px;
+		top: 145.947px;
+		position: absolute;
+		overflow: visible;
+		width: 93px;
+		white-space: nowrap;
+		line-height: 21.600017547607422px;
+		margin-top: -4.300008773803711px;
+		text-align: left;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 13px;
+		color: rgba(255,255,255,1);
+	}
+	#BOLAJI_LAWAL_hg {
+		left: 139.061px;
+		top: 116.947px;
+		position: absolute;
+		overflow: visible;
+		width: 130px;
+		white-space: nowrap;
+		line-height: 29.99997901916504px;
+		margin-top: -5.4999895095825195px;
+		text-align: left;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 19px;
+		color: rgba(255,198,26,1);
+	}
+	#Very_good_and_exceptional_They_hh {
+		left: 52.424px;
+		top: 23.677px;
+		position: absolute;
+		overflow: visible;
+		width: 472.576px;
+		height: 92.75px;
+		line-height: 21.600000381469727px;
+		margin-top: -4.300000190734863px;
+		text-align: left;
+		font-family: AvenirLTStd-Light;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 13px;
+		color: rgba(255,255,255,1);
+	}
+	#REVIEWS {
+		left: 685px;
+		top: 83.342px;
+		position: absolute;
+		overflow: visible;
+		width: 131px;
+		white-space: nowrap;
+		line-height: 52.72836685180664px;
+		margin-top: -9.86418342590332px;
+		text-align: center;
+		font-family: AvenirLTStd-Black;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 33px;
+		color: rgba(255,255,255,1);
+	}
+	#CLIENT {
+		left: 707px;
+		top: 32.779px;
+		position: absolute;
+		overflow: visible;
+		width: 89px;
+		white-space: nowrap;
+		line-height: 42.00003433227539px;
+		margin-top: -7.000017166137695px;
+		text-align: center;
+		font-family: AvenirLTStd-Black;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 28px;
+		color: rgba(0,255,255,1);
+	}
+	#Rounded_Rectangle_2 {
+		position: absolute;
+		width: 153.807px;
+		height: 63.805px;
+		left: 346.5px;
+		top: 2668.82px;
+		overflow: visible;
+	}
+	#Rounded_Rectangle_2_hl {
+		fill: rgba(0,0,0,1);
+	}
+	.Rounded_Rectangle_2_hl {
+		position: absolute;
+		overflow: visible;
+		width: 153.807px;
+		height: 63.805px;
+		left: 0px;
+		top: 0px;
+	}
+	#Clip {
+		position: absolute;
+		width: 153.807px;
+		height: 63.805px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rounded_Rectangle_2_copy {
+		fill: rgba(0,0,0,1);
+	}
+	.Rounded_Rectangle_2_copy {
+		overflow: visible;
+		position: absolute;
+		width: 152.377px;
+		height: 68.705px;
+		left: 533.924px;
+		top: 2666.319px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#App_store {
+		position: absolute;
+		width: 129.424px;
+		height: 43.955px;
+		left: 546.924px;
+		top: 2674.842px;
+		overflow: visible;
+	}
+	#Downlaod_the_Armotale_app_free {
+		left: 346.561px;
+		top: 2512.558px;
+		position: absolute;
+		overflow: visible;
+		width: 281px;
+		white-space: nowrap;
+		line-height: 30.580066680908203px;
+		margin-top: -5.790033340454102px;
+		text-align: left;
+		font-family: AvenirLTStd-Light;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 19px;
+		color: rgba(0,0,0,1);
+	}
+	#The_app_The_app_The_app_The_ap {
+		left: 345.924px;
+		top: 2578.33px;
+		position: absolute;
+		overflow: visible;
+		width: 368.076px;
+		height: 102.21730041503906px;
+		line-height: 21.600000381469727px;
+		margin-top: -6.300000190734863px;
+		text-align: left;
+		font-family: AvenirLTStd-Light;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 9px;
+		color: rgba(16,16,16,1);
+	}
+	#THE_BEST_DELIVERY_APP {
+		left: 648px;
+		top: 2434.779px;
+		position: absolute;
+		overflow: visible;
+		width: 353px;
+		white-space: nowrap;
+		line-height: 52.72836685180664px;
+		margin-top: -10.86418342590332px;
+		text-align: center;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 31px;
+		color: rgba(0,0,0,1);
+	}
+	#DOWNLOAD_hs {
+		left: 758.5px;
+		top: 2399.779px;
+		position: absolute;
+		overflow: visible;
+		width: 131px;
+		white-space: nowrap;
+		line-height: 42.00003433227539px;
+		margin-top: -9.000017166137695px;
+		text-align: center;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 24px;
+		color: rgba(0,118,163,1);
+	}
+	#ID05_Quality_Services {
+		position: absolute;
+		width: 1312px;
+		height: 1191.379px;
+		left: 175px;
+		top: 1187.621px;
+		overflow: visible;
+	}
+	#Background_hu {
+		position: absolute;
+		width: 1312px;
+		height: 617px;
+		left: 0px;
+		top: 574.379px;
+		overflow: visible;
+	}
+	#Rectangle_3_copy {
+		position: absolute;
+		width: 1312px;
+		height: 617px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rectangle_3_copy_hw {
+		fill: rgba(0,0,0,1);
+	}
+	.Rectangle_3_copy_hw {
+		position: absolute;
+		overflow: visible;
+		width: 1312px;
+		height: 617px;
+		left: 0px;
+		top: 0px;
+	}
+	#Clip_hx {
+		position: absolute;
+		width: 1312px;
+		height: 617px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rectangle_11 {
+		opacity: 0.702;
+		fill: rgba(0,0,0,1);
+	}
+	.Rectangle_11 {
+		display: none;
+		position: absolute;
+		overflow: visible;
+		width: 1011px;
+		height: 391px;
+		left: 186px;
+		top: 726.379px;
+	}
+	#learn_More_Button {
+		position: absolute;
+		width: 137px;
+		height: 54.38px;
+		left: 579.168px;
+		top: 1060.969px;
+		overflow: visible;
+	}
+	#Rounded_Rectangle_1 {
+		fill: rgba(19,200,209,1);
+	}
+	.Rounded_Rectangle_1 {
+		position: absolute;
+		overflow: visible;
+		width: 137px;
+		height: 54.38px;
+		left: 0px;
+		top: 0px;
+	}
+	#LEARN_MORE {
+		left: 22.232px;
+		top: 15.793px;
+		position: absolute;
+		overflow: visible;
+		width: 97px;
+		white-space: nowrap;
+		line-height: 24.999982833862305px;
+		margin-top: -4.499991416931152px;
+		text-align: center;
+		font-family: AvenirLTStd-Heavy;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 16px;
+		color: rgba(0,0,0,1);
+	}
+	#ID04 {
+		position: absolute;
+		width: 367.076px;
+		height: 220.048px;
+		left: 766.336px;
+		top: 907.771px;
+		overflow: visible;
+	}
+	#GPS_TRACKING_h {
+		left: 0.637px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 133px;
+		white-space: nowrap;
+		line-height: 30.000009536743164px;
+		margin-top: -5.500004768371582px;
+		text-align: left;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 19px;
+		color: rgba(19,200,209,1);
+	}
+	#Know_exactly_where_your_parcel_h {
+		left: 0px;
+		top: 32.548px;
+		position: absolute;
+		overflow: visible;
+		width: 368.076px;
+		height: 187.5px;
+		line-height: 21.600000381469727px;
+		margin-top: -4.300000190734863px;
+		text-align: left;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 13px;
+		color: rgba(255,255,255,1);
+	}
+	#FAST_BOOKING_h {
+		left: 751.992px;
+		top: 752.877px;
+		position: absolute;
+		overflow: visible;
+		width: 131px;
+		white-space: nowrap;
+		line-height: 30.000009536743164px;
+		margin-top: -5.500004768371582px;
+		text-align: left;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 19px;
+		color: rgba(19,200,209,1);
+	}
+	#iOS_and_Android_apps_available_h {
+		left: 768.105px;
+		top: 784.705px;
+		position: absolute;
+		overflow: visible;
+		width: 368.076px;
+		height: 105.75px;
+		line-height: 21.600000381469727px;
+		margin-top: -4.300000190734863px;
+		text-align: left;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 13px;
+		color: rgba(255,255,255,1);
+	}
+	#Group_10 {
+		position: absolute;
+		width: 63px;
+		height: 60.279px;
+		left: 665.912px;
+		top: 755.742px;
+		overflow: visible;
+	}
+	#Ellipse_2_copy_h {
+		fill: rgba(19,200,209,1);
+	}
+	.Ellipse_2_copy_h {
+		position: absolute;
+		overflow: visible;
+		width: 63px;
+		height: 60.279px;
+		left: 0px;
+		top: 0px;
+	}
+	#_h {
+		left: 20.023px;
+		top: 7.95px;
+		position: absolute;
+		overflow: visible;
+		width: 21px;
+		white-space: nowrap;
+		line-height: 36px;
+		margin-top: -3px;
+		text-align: center;
+		font-family: FontAwesome;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 30px;
+		color: rgba(22,22,22,1);
+	}
+	#Group_15 {
+		position: absolute;
+		width: 63px;
+		height: 60.279px;
+		left: 662.805px;
+		top: 917.838px;
+		overflow: visible;
+	}
+	#Ellipse_2_copy_ib {
+		fill: rgba(19,200,209,1);
+	}
+	.Ellipse_2_copy_ib {
+		position: absolute;
+		overflow: visible;
+		width: 63px;
+		height: 60.279px;
+		left: 0px;
+		top: 0px;
+	}
+	#_ic {
+		left: 20.023px;
+		top: 7.95px;
+		position: absolute;
+		overflow: visible;
+		width: 21px;
+		white-space: nowrap;
+		line-height: 36px;
+		margin-top: -3px;
+		text-align: center;
+		font-family: FontAwesome;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 30px;
+		color: rgba(22,22,22,1);
+	}
+	#Group_16 {
+		position: absolute;
+		width: 453.439px;
+		height: 298.456px;
+		left: 148.479px;
+		top: 750.102px;
+		overflow: visible;
+	}
+	#ID03 {
+		position: absolute;
+		width: 370.439px;
+		height: 139.298px;
+		left: 83px;
+		top: 159.158px;
+		overflow: visible;
+	}
+	#RELIABLE_DRIVERS_if {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 164px;
+		white-space: nowrap;
+		line-height: 30.000009536743164px;
+		margin-top: -5.500004768371582px;
+		text-align: left;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 19px;
+		color: rgba(19,200,209,1);
+	}
+	#With_over_1000_pilots_more_pil_ig {
+		left: 3.363px;
+		top: 33.548px;
+		position: absolute;
+		overflow: visible;
+		width: 368.076px;
+		height: 105.75px;
+		line-height: 21.600000381469727px;
+		margin-top: -4.300000190734863px;
+		text-align: left;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 13px;
+		color: rgba(255,255,255,1);
+	}
+	#Group_11 {
+		position: absolute;
+		width: 65px;
+		height: 228.279px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Group_13 {
+		position: absolute;
+		width: 63px;
+		height: 60.279px;
+		left: 2px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Ellipse_2_copy_ij {
+		fill: rgba(19,200,209,1);
+	}
+	.Ellipse_2_copy_ij {
+		position: absolute;
+		overflow: visible;
+		width: 63px;
+		height: 60.279px;
+		left: 0px;
+		top: 0px;
+	}
+	#_ik {
+		left: 20.023px;
+		top: 7.95px;
+		position: absolute;
+		overflow: visible;
+		width: 21px;
+		white-space: nowrap;
+		line-height: 36px;
+		margin-top: -3px;
+		text-align: center;
+		font-family: FontAwesome;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 30px;
+		color: rgba(22,22,22,1);
+	}
+	#Group_14 {
+		position: absolute;
+		width: 63px;
+		height: 60.279px;
+		left: 0px;
+		top: 168px;
+		overflow: visible;
+	}
+	#Ellipse_2_copy_im {
+		fill: rgba(19,200,209,1);
+	}
+	.Ellipse_2_copy_im {
+		position: absolute;
+		overflow: visible;
+		width: 63px;
+		height: 60.279px;
+		left: 0px;
+		top: 0px;
+	}
+	#_in {
+		left: 20.023px;
+		top: 7.95px;
+		position: absolute;
+		overflow: visible;
+		width: 21px;
+		white-space: nowrap;
+		line-height: 36px;
+		margin-top: -3px;
+		text-align: center;
+		font-family: FontAwesome;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 30px;
+		color: rgba(22,22,22,1);
+	}
+	#ID01_io {
+		position: absolute;
+		width: 338.488px;
+		height: 134.298px;
+		left: 83.967px;
+		top: 7.155px;
+		overflow: visible;
+	}
+	#MULTIPLE_PICKUPS_ip {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 169px;
+		white-space: nowrap;
+		line-height: 30.000009536743164px;
+		margin-top: -5.500004768371582px;
+		text-align: left;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 19px;
+		color: rgba(19,200,209,1);
+	}
+	#Multiple_parcels_multiple_loca_iq {
+		left: 3.361px;
+		top: 28.548px;
+		position: absolute;
+		overflow: visible;
+		width: 336.125px;
+		height: 105.75px;
+		line-height: 21.600000381469727px;
+		margin-top: -4.300000190734863px;
+		text-align: left;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 13px;
+		color: rgba(255,255,255,1);
+	}
+	#SERVICES {
+		left: 567.955px;
+		top: 659.895px;
+		position: absolute;
+		overflow: visible;
+		width: 159px;
+		white-space: nowrap;
+		line-height: 52.72836685180664px;
+		margin-top: -8.86418342590332px;
+		text-align: center;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 35px;
+		color: rgba(255,255,255,1);
+	}
+	#VEHICLES {
+		left: 559.662px;
+		top: 34px;
+		position: absolute;
+		overflow: visible;
+		width: 149px;
+		white-space: nowrap;
+		line-height: 52.72836685180664px;
+		margin-top: -8.86418342590332px;
+		text-align: center;
+		font-family: AvenirLTStd-Black;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 35px;
+		color: rgba(19,200,209,1);
+	}
+	#QUALITY {
+		left: 590.99px;
+		top: 625.842px;
+		position: absolute;
+		overflow: visible;
+		width: 113px;
+		white-space: nowrap;
+		line-height: 42.00003433227539px;
+		margin-top: -7.000017166137695px;
+		text-align: center;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 28px;
+		color: rgba(19,200,209,1);
+	}
+	#OUR {
+		left: 604.744px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 59px;
+		white-space: nowrap;
+		line-height: 42.00003433227539px;
+		margin-top: -7.000017166137695px;
+		text-align: center;
+		font-family: AvenirLTStd-Black;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 28px;
+		color: rgba(19,200,209,1);
+	}
+	#Rectangle_4 {
+		fill: rgba(210,221,244,1);
+	}
+	.Rectangle_4 {
+		width: 312px;
+		height: 311px;
+		position: absolute;
+		overflow: visible;
+		transform: translate(0px, 0px) matrix(1,0,0,1,318.9997,1380) rotate(1deg);
+		transform-origin: center;
+	}
+	#Our_Bikes_are_Kwik_to_navigate {
+		left: 339.706px;
+		top: 1457.607px;
+		position: absolute;
+		overflow: hidden;
+		width: 247.294px;
+		height: 181.5px;
+		line-height: 21.600000381469727px;
+		margin-top: -3.8000001907348633px;
+		text-align: center;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(16,16,16,1);
+	}
+	#BIKES_ix {
+		left: 457px;
+		top: 1429px;
+		position: absolute;
+		overflow: visible;
+		width: 37px;
+		white-space: nowrap;
+		line-height: 33px;
+		margin-top: -9px;
+		text-align: center;
+		font-family: AvenirLTStd-Black;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 15px;
+		color: rgba(0,0,0,1);
+	}
+	#Bike {
+		mix-blend-mode: normal;
+		position: absolute;
+		width: 312px;
+		height: 311px;
+		left: 651px;
+		top: 1380px;
+		overflow: visible;
+	}
+	#Rectangle_4_iz {
+		fill: rgba(26,101,152,1);
+	}
+	.Rectangle_4_iz {
+		position: absolute;
+		overflow: visible;
+		width: 312px;
+		height: 311px;
+		left: 0px;
+		top: 0px;
+	}
+	#Do_you_have_large_items_or_qua_i {
+		left: 20.707px;
+		top: 59.607px;
+		position: absolute;
+		overflow: visible;
+		width: 247.294px;
+		height: 228.49998474121094px;
+		line-height: 21.600000381469727px;
+		margin-top: -3.8000001907348633px;
+		text-align: center;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+	}
+	#VAN_i {
+		left: 141px;
+		top: 40px;
+		position: absolute;
+		overflow: visible;
+		width: 31px;
+		white-space: nowrap;
+		line-height: 33px;
+		margin-top: -9px;
+		text-align: center;
+		font-family: AvenirLTStd-Black;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 15px;
+		color: rgba(255,255,255,1);
+	}
+	#Bike_i {
+		position: absolute;
+		width: 312px;
+		height: 311px;
+		left: 975px;
+		top: 1380px;
+		overflow: visible;
+	}
+	#Rectangle_4_i {
+		fill: rgba(210,221,244,1);
+	}
+	.Rectangle_4_i {
+		position: absolute;
+		overflow: visible;
+		width: 312px;
+		height: 311px;
+		left: 0px;
+		top: 0px;
+	}
+	#For_your_large_items_our_Truck_i {
+		left: 20.707px;
+		top: 72.256px;
+		position: absolute;
+		overflow: hidden;
+		width: 247.294px;
+		height: 181.5px;
+		line-height: 21.600000381469727px;
+		margin-top: -3.8000001907348633px;
+		text-align: center;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(16,16,16,1);
+	}
+	#TRUCK_i {
+		left: 133px;
+		top: 51px;
+		position: absolute;
+		overflow: visible;
+		width: 47px;
+		white-space: nowrap;
+		line-height: 33px;
+		margin-top: -9px;
+		text-align: center;
+		font-family: AvenirLTStd-Black;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 15px;
+		color: rgba(0,0,0,1);
+	}
+	#VEHICLES_i {
+		left: 727px;
+		top: 1363.8px;
+		position: absolute;
+		overflow: visible;
+		width: 153px;
+		white-space: nowrap;
+		line-height: 43px;
+		margin-top: -3.5px;
+		text-align: center;
+		font-family: AvenirLTStd-Roman;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 36px;
+		color: rgba(0,0,0,1);
+	}
+	#OUR_i {
+		left: 767px;
+		top: 1329.3px;
+		position: absolute;
+		overflow: visible;
+		width: 73px;
+		white-space: nowrap;
+		line-height: 42.00003433227539px;
+		margin-top: -3.500001907348633px;
+		text-align: center;
+		font-family: AvenirLTStd-Roman;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 35.000030517578125px;
+		color: rgba(0,118,163,1);
+	}
+	#ID03_Best_and_Trusted {
+		position: absolute;
+		width: 1400px;
+		height: 634px;
+		left: 145px;
+		top: 472px;
+		overflow: visible;
+	}
+	#BG_copy_i {
+		fill: rgba(0,118,163,1);
+	}
+	.BG_copy_i {
+		position: absolute;
+		overflow: visible;
+		width: 1400px;
+		height: 634px;
+		left: 0px;
+		top: 0px;
+	}
+	#Rounded_Rectangle_1_copy_4_ja {
+		fill: rgba(0,0,0,1);
+	}
+	.Rounded_Rectangle_1_copy_4_ja {
+		overflow: visible;
+		position: absolute;
+		width: 130.023px;
+		height: 37.753px;
+		left: 183.178px;
+		top: 425.115px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#GET_STARTED_jb {
+		left: 207px;
+		top: 433px;
+		position: absolute;
+		overflow: visible;
+		width: 95px;
+		white-space: nowrap;
+		line-height: 20px;
+		margin-top: -2px;
+		text-align: center;
+		font-family: AvenirLTStd-Heavy;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 16px;
+		color: rgba(255,255,255,1);
+	}
+	#Whether_you_are_a_business_own_jc {
+		left: 184.602px;
+		top: 339px;
+		position: absolute;
+		overflow: visible;
+		width: 474.398px;
+		height: 78.4075927734375px;
+		line-height: 24.999998092651367px;
+		margin-top: -4.249999046325684px;
+		text-align: left;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 16.5px;
+		color: rgba(255,255,255,1);
+	}
+	#COURIER_SERVICES_IN_THE_WORLD {
+		left: 184px;
+		top: 224px;
+		position: absolute;
+		overflow: visible;
+		width: 407px;
+		white-space: nowrap;
+		line-height: 48px;
+		margin-top: -4px;
+		text-align: left;
+		font-family: Verdana;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 40px;
+		color: rgba(255,255,255,1);
+	}
+	#THE_BEST_AND_MOST_TRUSTED_je {
+		left: 189.602px;
+		top: 183px;
+		position: absolute;
+		overflow: visible;
+		width: 399px;
+		white-space: nowrap;
+		line-height: 34px;
+		margin-top: -3px;
+		text-align: center;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 28px;
+		color: rgba(255,255,255,1);
+	}
+	#Phone_copy_2_jf {
+		position: absolute;
+		width: 333px;
+		height: 305px;
+		left: 834px;
+		top: 173px;
+		overflow: visible;
+	}
+	#Rounded_Rectangle_3 {
+		fill: rgba(0,118,163,1);
+	}
+	.Rounded_Rectangle_3 {
+		overflow: visible;
+		position: absolute;
+		width: 71px;
+		height: 28.942px;
+		left: 810px;
+		top: 9.909px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#ABOUT {
+		left: 886px;
+		top: 17px;
+		position: absolute;
+		overflow: visible;
+		width: 56px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 16px;
+		color: rgba(7,0,0,1);
+	}
+	#HOME {
+		left: 820px;
+		top: 17px;
+		position: absolute;
+		overflow: visible;
+		width: 49px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 16px;
+		color: rgba(255,255,255,1);
+	}
+	#_ {
+		left: 821px;
+		top: 12px;
+		position: absolute;
+		overflow: visible;
+		width: 1px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 16px;
+		color: rgba(255,15,87,1);
+	}
+	#FEATURES_ {
+		left: 947px;
+		top: 17px;
+		position: absolute;
+		overflow: visible;
+		width: 90px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 16px;
+		color: rgba(7,0,0,1);
+	}
+	#GET_STARTED_jl {
+		left: 1035px;
+		top: 17px;
+		position: absolute;
+		overflow: visible;
+		width: 111px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 16px;
+		color: rgba(7,0,0,1);
+	}
+	#CONTACT_jm {
+		left: 1145px;
+		top: 17px;
+		position: absolute;
+		overflow: visible;
+		width: 77px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 16px;
+		color: rgba(7,0,0,1);
+	}
+	#SIGN_IN {
+		left: 1226px;
+		top: 17px;
+		position: absolute;
+		overflow: visible;
+		width: 61px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 16px;
+		color: rgba(7,0,0,1);
+	}
+	#Group_23 {
+		position: absolute;
+		width: 353px;
+		height: 71.718px;
+		left: 931px;
+		top: 1019.684px;
+		overflow: visible;
+	}
+	#Layer_27_jp {
+		mix-blend-mode: screen;
+		position: absolute;
+		width: 163.492px;
+		height: 47.998px;
+		left: 189.508px;
+		top: 22.72px;
+		overflow: visible;
+	}
+	#Layer_27_jq {
+		mix-blend-mode: screen;
+		position: absolute;
+		width: 163.492px;
+		height: 47.998px;
+		left: 189.508px;
+		top: 23.72px;
+		overflow: visible;
+	}
+	#Layer_28_jr {
+		mix-blend-mode: screen;
+		position: absolute;
+		width: 163.492px;
+		height: 47.998px;
+		left: 0.008px;
+		top: 22.72px;
+		overflow: visible;
+	}
+	#Layer_28_js {
+		mix-blend-mode: screen;
+		position: absolute;
+		width: 163.492px;
+		height: 47.998px;
+		left: 0.008px;
+		top: 23.72px;
+		overflow: visible;
+	}
+	#Download_our_app_on_Android_an_jt {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 350px;
+		white-space: nowrap;
+		line-height: 18px;
+		margin-top: -0.6499996185302734px;
+		text-align: left;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 16.700000762939453px;
+		color: rgba(255,255,255,1);
+	}
+	#Repeat_Grid_1 {
+		position: absolute;
+		width: 114.712px;
+		height: 41.753px;
+		left: 417.645px;
+		top: 1638.625px;
+		overflow: hidden;
+	}
+	#Repeat_Grid_1_0 {
+		position: absolute;
+		width: 114.712px;
+		height: 41.753px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rounded_Rectangle_1_copy_4_jw {
+		fill: rgba(0,0,0,1);
+	}
+	.Rounded_Rectangle_1_copy_4_jw {
+		overflow: visible;
+		position: absolute;
+		width: 114.711px;
+		height: 41.753px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#SIGN_UP {
+		left: 27.355px;
+		top: 10.377px;
+		position: absolute;
+		overflow: visible;
+		width: 61px;
+		white-space: nowrap;
+		line-height: 20px;
+		margin-top: -2px;
+		text-align: center;
+		font-family: AvenirLTStd-Heavy;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 16px;
+		color: rgba(255,255,255,1);
+	}
+	#Repeat_Grid_2 {
+		position: absolute;
+		width: 114.712px;
+		height: 41.753px;
+		left: 740.477px;
+		top: 1638.625px;
+		overflow: hidden;
+	}
+	#Repeat_Grid_2_0 {
+		position: absolute;
+		width: 114.712px;
+		height: 41.753px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rounded_Rectangle_1_copy_4_j {
+		fill: rgba(0,0,0,1);
+	}
+	.Rounded_Rectangle_1_copy_4_j {
+		overflow: visible;
+		position: absolute;
+		width: 114.711px;
+		height: 41.753px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#SIGN_UP_j {
+		left: 27.355px;
+		top: 10.377px;
+		position: absolute;
+		overflow: visible;
+		width: 61px;
+		white-space: nowrap;
+		line-height: 20px;
+		margin-top: -2px;
+		text-align: center;
+		font-family: AvenirLTStd-Heavy;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 16px;
+		color: rgba(255,255,255,1);
+	}
+	#Repeat_Grid_3 {
+		position: absolute;
+		width: 114.712px;
+		height: 41.753px;
+		left: 1055.289px;
+		top: 1641.107px;
+		overflow: hidden;
+	}
+	#Repeat_Grid_3_0 {
+		position: absolute;
+		width: 114.712px;
+		height: 41.753px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rounded_Rectangle_1_copy_4_ka {
+		fill: rgba(0,0,0,1);
+	}
+	.Rounded_Rectangle_1_copy_4_ka {
+		overflow: visible;
+		position: absolute;
+		width: 114.711px;
+		height: 41.753px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#SIGN_UP_ka {
+		left: 27.355px;
+		top: 10.377px;
+		position: absolute;
+		overflow: visible;
+		width: 61px;
+		white-space: nowrap;
+		line-height: 20px;
+		margin-top: -2px;
+		text-align: center;
+		font-family: AvenirLTStd-Heavy;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 16px;
+		color: rgba(255,255,255,1);
+	}
+	#HueSaturation_1_copy_j {
+		position: absolute;
+		width: 166px;
+		height: 130px;
+		left: 401px;
+		top: 1302px;
+		overflow: visible;
+	}
+	#Group_27_j {
+		position: absolute;
+		width: 237.589px;
+		height: 188.973px;
+		left: 1022.152px;
+		top: 1251.527px;
+		overflow: visible;
+	}
+	#Group_26_j {
+		position: absolute;
+		width: 237.589px;
+		height: 188.973px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Truck_j {
+		position: absolute;
+		width: 237.59px;
+		height: 188.973px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Van {
+		position: absolute;
+		width: 258px;
+		height: 158px;
+		left: 677px;
+		top: 1261px;
+		overflow: visible;
+	}
+	#Ford_Cargo_Van_Mockup_kb {
+		position: absolute;
+		width: 258px;
+		height: 158px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Van__kc {
+		position: absolute;
+		width: 258px;
+		height: 158px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Phone {
+		filter: drop-shadow(43.661px 82.114px 59px rgba(0, 0, 0, 0.42));
+		position: absolute;
+		width: 262.027px;
+		height: 304.709px;
+		left: 977px;
+		top: 2548.368px;
+		overflow: visible;
+	}
+	#Path_38_ke {
+		fill: rgba(255,255,255,1);
+	}
+	.Path_38_ke {
+		overflow: visible;
+		position: absolute;
+		width: 7.311px;
+		height: 14px;
+		left: 393.688px;
+		top: 3634.645px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Path_39_kf {
+		fill: rgba(255,255,255,1);
+	}
+	.Path_39_kf {
+		overflow: visible;
+		position: absolute;
+		width: 14px;
+		height: 11.355px;
+		left: 350.656px;
+		top: 3634.645px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Path_39_kg {
+		fill: rgba(255,255,255,1);
+	}
+	.Path_39_kg {
+		overflow: visible;
+		position: absolute;
+		width: 14px;
+		height: 11.355px;
+		left: 477.031px;
+		top: 3634.645px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Path_40_kh {
+		fill: rgba(255,255,255,1);
+	}
+	.Path_40_kh {
+		overflow: visible;
+		position: absolute;
+		width: 14px;
+		height: 14px;
+		left: 434px;
+		top: 3632px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#SIGN_IN_ki {
+		opacity: 0.63;
+		left: 1218px;
+		top: 31px;
+		position: absolute;
+		overflow: visible;
+		width: 53px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(7,0,0,1);
+	}
+	#ID123__Street_Ajegunle_Paris_b_kj {
+		left: 959px;
+		top: 3489.647px;
+		position: absolute;
+		overflow: visible;
+		width: 233px;
+		white-space: nowrap;
+		line-height: 21.600000381469727px;
+		margin-top: -4.300000190734863px;
+		text-align: left;
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 13px;
+		color: rgba(255,255,255,1);
+	}
+	#Base_kk {
+		fill: rgba(255,255,255,1);
+	}
+	.Base_kk {
+		position: absolute;
+		overflow: visible;
+		width: 1263px;
+		height: 116px;
+		left: 175px;
+		top: 0px;
+	}
+	#HOME_kl {
+		left: 789px;
+		top: 53px;
+		position: absolute;
+		overflow: visible;
+		width: 31px;
+		white-space: nowrap;
+		line-height: 12px;
+		margin-top: -1px;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 10px;
+		color: rgba(0,0,0,1);
+	}
+	#ABOUT_US {
+		left: 844px;
+		top: 53px;
+		position: absolute;
+		overflow: visible;
+		width: 53px;
+		white-space: nowrap;
+		line-height: 12px;
+		margin-top: -1px;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 10px;
+		color: rgba(0,0,0,1);
+	}
+	#GET_STARTED_kn {
+		left: 921px;
+		top: 53px;
+		position: absolute;
+		overflow: visible;
+		width: 71px;
+		white-space: nowrap;
+		line-height: 12px;
+		margin-top: -1px;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 10px;
+		color: rgba(0,0,0,1);
+	}
+	#OUR_TEAM {
+		left: 1002px;
+		top: 53px;
+		position: absolute;
+		overflow: visible;
+		width: 54px;
+		white-space: nowrap;
+		line-height: 12px;
+		margin-top: -1px;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 10px;
+		color: rgba(0,0,0,1);
+	}
+	#CONTACT_kp {
+		left: 1073px;
+		top: 53px;
+		position: absolute;
+		overflow: visible;
+		width: 49px;
+		white-space: nowrap;
+		line-height: 12px;
+		margin-top: -1px;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 10px;
+		color: rgba(0,0,0,1);
+	}
+	#Group_1 {
+		position: absolute;
+		width: 100px;
+		height: 40px;
+		left: 1298px;
+		top: 30px;
+		overflow: visible;
+	}
+	#Rectangle_1 {
+		fill: transparent;
+		stroke: rgba(0,0,0,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_1 {
+		position: absolute;
+		overflow: visible;
+		width: 100px;
+		height: 40px;
+		left: 0px;
+		top: 0px;
+	}
+	#Group_18 {
+		position: absolute;
+		width: 100px;
+		height: 40px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rectangle_4_k {
+		fill: transparent;
+		stroke: rgba(0,0,0,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_4_k {
+		position: absolute;
+		overflow: visible;
+		width: 100px;
+		height: 40px;
+		left: 0px;
+		top: 0px;
+	}
+	#SIGN_UP_k {
+		left: 29px;
+		top: 15px;
+		position: absolute;
+		overflow: visible;
+		width: 43px;
+		white-space: nowrap;
+		line-height: 12px;
+		margin-top: -1px;
+		text-align: center;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 10px;
+		color: rgba(0,0,0,1);
+	}
+	#Group_19 {
+		position: absolute;
+		width: 100px;
+		height: 40px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rectangle_4_la {
+		fill: transparent;
+		stroke: rgba(0,0,0,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_4_la {
+		position: absolute;
+		overflow: visible;
+		width: 100px;
+		height: 40px;
+		left: 0px;
+		top: 0px;
+	}
+	#SIGN_UP_la {
+		left: 29px;
+		top: 15px;
+		position: absolute;
+		overflow: visible;
+		width: 43px;
+		white-space: nowrap;
+		line-height: 12px;
+		margin-top: -1px;
+		text-align: center;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 10px;
+		color: rgba(0,0,0,1);
+	}
+	#Group_20 {
+		position: absolute;
+		width: 100px;
+		height: 40px;
+		left: 1298px;
+		top: 30px;
+		overflow: visible;
+	}
+	#Rectangle_1_kz {
+		fill: transparent;
+		stroke: rgba(0,0,0,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_1_kz {
+		position: absolute;
+		overflow: visible;
+		width: 100px;
+		height: 40px;
+		left: 0px;
+		top: 0px;
+	}
+	#Group_18_k {
+		position: absolute;
+		width: 100px;
+		height: 40px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rectangle_4_k {
+		fill: transparent;
+		stroke: rgba(0,0,0,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_4_k {
+		position: absolute;
+		overflow: visible;
+		width: 100px;
+		height: 40px;
+		left: 0px;
+		top: 0px;
+	}
+	#SIGN_UP_k {
+		left: 29px;
+		top: 15px;
+		position: absolute;
+		overflow: visible;
+		width: 43px;
+		white-space: nowrap;
+		line-height: 12px;
+		margin-top: -1px;
+		text-align: center;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 10px;
+		color: rgba(0,0,0,1);
+	}
+	#Group_19_k {
+		position: absolute;
+		width: 100px;
+		height: 40px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rectangle_4_la {
+		fill: transparent;
+		stroke: rgba(0,0,0,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_4_la {
+		position: absolute;
+		overflow: visible;
+		width: 100px;
+		height: 40px;
+		left: 0px;
+		top: 0px;
+	}
+	#SIGN_UP_la {
+		left: 29px;
+		top: 15px;
+		position: absolute;
+		overflow: visible;
+		width: 43px;
+		white-space: nowrap;
+		line-height: 12px;
+		margin-top: -1px;
+		text-align: center;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 10px;
+		color: rgba(0,0,0,1);
+	}
+	#Component_8__1 {
+		position: absolute;
+		width: 19px;
+		height: 10.149px;
+		left: 215.482px;
+		top: 45.112px;
+		overflow: visible;
+	}
+	#Path_197 {
+		fill: rgba(255,255,255,1);
+	}
+	.Path_197 {
+		overflow: visible;
+		position: absolute;
+		width: 19px;
+		height: 10.149px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#HOME_k {
+		opacity: 0.98;
+		left: 742px;
+		top: 116px;
+		position: absolute;
+		overflow: visible;
+		width: 43px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(252,246,246,1);
+	}
+	#logo_k {
+		position: absolute;
+		width: 143px;
+		height: 23px;
+		left: 332px;
+		top: 39px;
+		overflow: visible;
+	}
+	#Lets_run_your_errands {
+		left: 368px;
+		top: 68px;
+		position: absolute;
+		overflow: visible;
+		width: 108px;
+		white-space: nowrap;
+		line-height: 13px;
+		margin-top: -1px;
+		text-align: left;
+		font-family: Arial;
+		font-style: italic;
+		font-weight: normal;
+		font-size: 11px;
+		color: rgba(0,0,0,1);
+	}
+	#Group_21 {
+		position: absolute;
+		width: 100px;
+		height: 40px;
+		left: 1176px;
+		top: 31px;
+		overflow: visible;
+	}
+	#Rectangle_1_lc {
+		fill: transparent;
+		stroke: rgba(35,140,211,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_1_lc {
+		position: absolute;
+		overflow: visible;
+		width: 100px;
+		height: 40px;
+		left: 0px;
+		top: 0px;
+	}
+	#Rectangle_4_ld {
+		fill: transparent;
+		stroke: rgba(35,140,211,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_4_ld {
+		position: absolute;
+		overflow: visible;
+		width: 100px;
+		height: 40px;
+		left: 0px;
+		top: 0px;
+	}
+	#ORDER_NOW {
+		left: 18px;
+		top: 15px;
+		position: absolute;
+		overflow: visible;
+		width: 65px;
+		white-space: nowrap;
+		line-height: 12px;
+		margin-top: -1px;
+		text-align: center;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 10px;
+		color: rgba(33,162,249,1);
+	}
+	#Group_19_lf {
+		position: absolute;
+		width: 100px;
+		height: 40px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Rectangle_4_lg {
+		fill: transparent;
+		stroke: rgba(35,140,211,1);
+		stroke-width: 2px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_4_lg {
+		position: absolute;
+		overflow: visible;
+		width: 100px;
+		height: 40px;
+		left: 0px;
+		top: 0px;
+	}
+	#oza_lh {
+		position: absolute;
+		width: 1263px;
+		height: 555px;
+		left: 175px;
+		top: 100px;
+		overflow: visible;
+	}
+}
